@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Cybersecurity and Advanced AI Automation**
 
-- 👨‍💻 All of my projects are available at [https://nexyra-studio.netlify.app/](https://nexyra-studio.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://nexyra-studio.netlify.app/)
 
 - 📝 I regularly write articles on [https://pakjournals.com/ojs/index.php/ptt/article/view/221](https://pakjournals.com/ojs/index.php/ptt/article/view/221)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **info.ahmadinnovate@gmail.com**
 
-- 📄 Know about my experiences [(https://www.linkedin.com/in/ahmadinnovate/)🔗 Connect with me (]((https://www.linkedin.com/in/ahmadinnovate/)🔗 Connect with me ()
+- 📄 Know about my experiences [(https://www.linkedin.com/in/ahmadinnovate/)🔗 Connect with me ]
 
 - ⚡ Fun fact **I’m always learning, building, and experimenting with new technology.**
 
